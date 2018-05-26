@@ -1,0 +1,22 @@
+{
+  "name": "meanauthapp",
+  "version": "1.0.0",
+  "description": "mean stack authentication app",
+  "main": "app.js",
+  "scripts": {
+    "test": "Whateva",
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "*",
+    "mongoose": "*",
+    "bcryptjs": "*",
+    "cors": "*",
+    "jsonwebtoken": "*",
+    "body-parser": "*",
+    "passport": "*",
+    "passport-jwt": "*"
+  },
+  "author": "",
+  "license": "ISC"
+}
